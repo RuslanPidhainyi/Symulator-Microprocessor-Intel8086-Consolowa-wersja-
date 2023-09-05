@@ -1,1 +1,1 @@
-# probny1_dzialanie_AL
+# Symulator Microprocessor Intel8086 (Consolowa wersja w języku polskim)
